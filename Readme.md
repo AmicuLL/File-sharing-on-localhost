@@ -29,6 +29,14 @@ Ever found yourself searching for a USB drive or resorting to web platforms for 
 
 Encountering issues with wxWidgets? I faced challenges with mingw, clang, and msys, leading me to code in VS2022. To be honest, a setup with Neovim and quality plugins is often superior to this heavyweight ship.
 
+## Quick look to the state of GUI
+
+**Homepage:
+![HomePage](https://github.com/user-attachments/assets/36658546-5cfc-4737-9785-a8bb423e92d0)
+
+**Other parts of the app:
+![Other Parts](https://github.com/user-attachments/assets/8ef936cd-0a24-434e-a1c5-098be9ddafb5)
+
 ## Contributing
 
 I lack experience in GUI and in-depth coding, so any suggestions are welcome. While the project may have started as a joke, who knows where it could lead...
